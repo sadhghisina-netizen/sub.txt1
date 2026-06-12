@@ -1,0 +1,1 @@
+vless://c8ad269c-faf0-431e-b094-2bd8f1d188c6@mine.beastcityctc.shop:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=mine.beastcityctc.shop&fp=chrome&type=xhttp&allowInsecure=0&sni=mine.beastcityctc.shop#Vpn_jet7
